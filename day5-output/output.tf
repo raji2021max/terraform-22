@@ -10,3 +10,7 @@ output "public" {
     sensitive = true
   
 }
+
+output "region" {
+  
+}
